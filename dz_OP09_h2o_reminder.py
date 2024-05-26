@@ -1,6 +1,6 @@
 import telebot, datetime, time, threading, random
 
-bot = telebot.TeleBot('7030559887:AAF0kkNPCqKzk3j7eJmWHWI-l89WA4EzJVw')
+bot = telebot.TeleBot('token')
 
 @bot.message_handler(commands=['start', 'help'])
 def start_message(message):
