@@ -22,7 +22,7 @@
    - первый в третьем
 - четвертый
 
-вот [ссылка на wiki](https://habr.com/ru/articles/649363/) 
+вот [ссылка на habr](https://habr.com/ru/articles/649363/) 
 
 а здесь [ссылка на help.md](HELP.md)
 
